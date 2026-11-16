@@ -1,0 +1,692 @@
+{
+  "brand": "Classy Boutique",
+  "handle": "classy_boutique_leb",
+  "instagram": "https://www.instagram.com/classy_boutique_leb/",
+  "phone": null,
+  "displayPhone": null,
+  "contactMode": "instagram",
+  "hours": "Confirm with the boutique",
+  "followersObserved": 15831,
+  "followersDisplay": "15.8K",
+  "postCountObserved": 2788,
+  "latestVisiblePost": "2026-11-11",
+  "researchDate": "2026-11-15",
+  "profileBio": "The place just for you to shine . no exchangepolicyno ref . The latest fashion we have fast service To order via Messenger or on WhatsApp 79306855ur",
+  "bioLinks": [
+    "https://www.threads.com/@classy_boutique_leb"
+  ],
+  "branches": [],
+  "about": "Classy Boutique, presented on Instagram as the.classy. clothes, shares women’s clothing and outfit ideas including coats, tailored jackets, coordinated looks and dresses. The public page invites orders through Messenger or WhatsApp.",
+  "heroImage": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-03.jpg",
+  "storyImage": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-06.jpg",
+  "galleryImages": [
+    "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-01.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-02.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-03.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-04.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-05.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-06.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-07.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-08.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-09.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-10.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-11.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-12.jpg"
+  ],
+  "products": [
+    {
+      "id": "chocolate-zip-jacket",
+      "name": "Chocolate Zip Jacket",
+      "category": "Jackets",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-01.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnVhB-xWjW/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "belted-short-coat",
+      "name": "Belted Short Coat",
+      "category": "Coats",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-02.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnVWINR1SW/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "burgundy-blouse",
+      "name": "Burgundy Blouse",
+      "category": "Tops",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-03.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnU_mPxBk1/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "black-tailored-edit",
+      "name": "Black Tailored Edit",
+      "category": "Tailoring",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnU4DxxtLV/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "black-tailored-jacket",
+      "name": "Black Tailored Jacket",
+      "category": "Tailoring",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnUtW5xL-g/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "burgundy-high-neck-set",
+      "name": "Burgundy High-Neck Set",
+      "category": "Coordinated looks",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-06.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnUezBRI6-/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "chocolate-blazer",
+      "name": "Chocolate Blazer",
+      "category": "Tailoring",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-07.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnUPYhxycV/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "grey-sculpted-jacket",
+      "name": "Grey Sculpted Jacket",
+      "category": "Jackets",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnUEb-xivj/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "burgundy-shirt-trouser-edit",
+      "name": "Burgundy Shirt & Trouser Edit",
+      "category": "Coordinated looks",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-09.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/Dfg21kMRW28/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "burgundy-suit-edit",
+      "name": "Burgundy Suit Edit",
+      "category": "Tailoring",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/Dfg2jOjRIm1/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "long-skirt-styling",
+      "name": "Long Skirt Styling",
+      "category": "Skirts",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-11.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/Dfg2fCYR3Pn/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "black-long-sleeve-dress",
+      "name": "Black Long-Sleeve Dress",
+      "category": "Dresses",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/Dfg2RZERAVb/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    }
+  ],
+  "assets": [
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-01.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/901883992_1186334847408227_3321400377319845340_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=dWtzYB3Xj2AQ7kNvwG_hP68&_nc_oc=AdooxQPpxOkOszKFxatrSOlhWQv-eudVSZOLilwirb9jkIwzQLWllVqUaX2n0zmpoX8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQjaMqiSId2TVmTPU-bPDcD_TvfLT6dfRU3plSAQ-Unvg&oe=6AFFE1C6",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnVhB-xWjW/",
+      "alt": "Video by the.classy. clothes on November 11, 2026. May be an image of turtleneck and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "dd65e6ac6ce2f981c055abdb6079c8d60e378eea019d9f959838e7299fd514f2",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-11",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/904176332_1794287265164697_1808701635185416463_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=RMrcSfJ0AeIQ7kNvwEQWy4v&_nc_oc=Ado7kukvDim_oSNucalrp6m2qRcUsxHQ6I-Gc2ALLYWsSshaT9m1V_-SSpLI02Rilcg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRMOce3UeUbTGr8HSk1t__junuUx1XvgqFg1hZIEZf-CQ&oe=6B000FBE",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnVWINR1SW/",
+      "alt": "Video by the.classy. clothes on November 11, 2026. May be an image of duffle coat, overcoat, blazer, clothes hanger, jacket, suit and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "5798556ca88386092ae4bf2626c930bcef7e6d0eb2aba43f226adb1f922ae301",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-11",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-03.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/902591988_1110446798523776_3165501902693442122_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=KcF6EQyFVI4Q7kNvwHjVMD6&_nc_oc=AdoUq4OrxEIu2AMTcwOS5jvPpcK_ApOmYCZrcC6zBlajM-QmydRgj_-P87FPCYU6SCU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTaX4MSlgpuqyFVJCk8YIXrQBVy1h6KSRNZJyXguSnyrg&oe=6B000164",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnU_mPxBk1/",
+      "alt": "Video by the.classy. clothes on November 11, 2026. May be an image of top, tights, miniskirt, skirt and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "39be2f8557a9bc7204701060b92930434f6c84e2da1dc88fb0c6ff571c1b92e6",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-11",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-04.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/902229365_1040287815748468_4569475059682666354_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Q2-DNSKC0BAQ7kNvwGwl_CC&_nc_oc=AdqOHDb09AGKYibqDZ7iwZBTwIV5BAlLiVK_Du-GJzcZpgc47NTAy21JBbmWoAhs4FE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQR9lWf7X7Owu1K6BxbtHyv7RMw13QB-iM_TD900qX6Eeg&oe=6B000D58",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnU4DxxtLV/",
+      "alt": "Video by the.classy. clothes on November 11, 2026. May be an image of duffle coat, overcoat, clothes hanger, blazer, rack, suit and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "f8cc9de0bbcfe075d81eb08881f0a63ff57124fecfc50c1f4d9502058a03c9e9",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-11",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/900924348_2033890373960380_9062196112632802326_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=WK5kA5UY460Q7kNvwFMuo90&_nc_oc=AdolcLizzoShkQQx3wLo0tgS9iM_8r9rOFjz0h_pRW7SpMfG7bH7O06_TVlsqtC7dxo&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQtPa7j4UsiMwioTxJ6Wa_Da2eA-QK8YqhnZsc4pRtq1A&oe=6AFFF680",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnUtW5xL-g/",
+      "alt": "Video by the.classy. clothes on November 11, 2026. May be an image of dinner jacket, blazer, suit and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "d8686c1fcd41b4b86f9c3bba58c749fee0e3388ae8dfea182bbfde05cf1f7021",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-11",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/902584557_1829801234928185_587324527655075437_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=14hc0NB_7T0Q7kNvwFBjghm&_nc_oc=AdqNAjIgIDCuD-2Nwmupan-l_aEKzJYV5GR9J7yo8yGk0zoItwAEuX7A-rxEkgMoTag&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTPZfiXzp1ovd0iRPCMXdHHGwysXaUEKbewnL-OCAvPVw&oe=6B000E2C",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnUezBRI6-/",
+      "alt": "Video by the.classy. clothes on November 11, 2026. May be an image of jumpsuit and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "9fe80a0b62e242967cdc4298b0cb804ab9f00cf903162cc50884e10174c1968d",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-11",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-07.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/903993977_4651637375071787_4342256960016898476_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=b7RKJ_2arJUQ7kNvwENscl2&_nc_oc=AdrCvTQ_ZaasoZyDIIkPALxh-ZAW7Y6rw4Ksb_Ci9E6Ulrx2x7l9eRbnbnL8XGGAw7I&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSzL8lG68OWtdx3hJj1mfvrDSMuzG4ptEeUMLUsjwMzNQ&oe=6AFFDE49",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnUPYhxycV/",
+      "alt": "Video by the.classy. clothes on November 11, 2026. May be an image of wool, turtleneck and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "747b2718f59c9d2ad56f0ade12c39d0dc4350632b7143a7e288db526fe761633",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-11",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-08.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/902584951_1439798677741839_8513947586958297841_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=mkYJA7WIYLQQ7kNvwGuqDsx&_nc_oc=AdplyoKXbMo2kpnsl3IsPvBAXqw-aHNB9YNyOioxQz7JgoIOMlZdLpruIe1D3o_z4Bo&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQT_aY16ISx3eiO-NR1sbyBjbO-KgPM518HocxXVNytt7A&oe=6AFFFDBD",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnUEb-xivj/",
+      "alt": "Video by the.classy. clothes on November 11, 2026. May be an image of wool, overskirt, outerwear, blazer, cardigan and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "95cf26e228cc8ada4e61b0dde5a93c0042cbfd1e1a75aacb7a2b1e63f93bb87f",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-11",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-09.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/890865748_1156669426931534_2257407044917276708_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=gazpoOFCH58Q7kNvwHdu7rC&_nc_oc=Ado_vseZXeJgV8i6YIvneGrpvirWt-3kW8HPPjuPTNBF6ovYZcY8_26vXYA8vdJy5lQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQR8K5vne7wXNf8Gc4DImxiik07vXFMSgtRoprmakDxqLA&oe=6B00139F",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/Dfg21kMRW28/",
+      "alt": "Video by the.classy. clothes on November 09, 2026. May be an image of jumpsuit and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "19ec19bea5b78d955dcb80912e261dede64ce4fe89a010376358b657dba9a489",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-09",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-10.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/894386355_1432538575697143_6184196153178612646_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=iyBuTm7tjYEQ7kNvwHmJ3uT&_nc_oc=AdpInFrLPLv8PWmd4qrWAgVLiHusHkO_MYMlFhoc4XFFPRXJ9ll_4_hbXdzQntZufcM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQT8mdnAEjYWddNhgR1x3w763wib5TZXnjtl5MElYdobxw&oe=6B0008AA",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/Dfg2jOjRIm1/",
+      "alt": "Video by the.classy. clothes on November 09, 2026. May be an image of suit, blazer, dinner jacket and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "c7490914aadd7eeefca1d0769913b72ba01f2e8bb6d04f9310f9b082f49de18d",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-09",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-11.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/899304556_965728772924016_4668660198082401303_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Fq3Q1dYXyMkQ7kNvwGAIHcH&_nc_oc=AdrjZLZYBGXUhOw1h1tJz9-MbuI0iJLIbPi5AlqJPhaesOk1GLzkLw9GHr3UYBDg2ok&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQT_Sg15XMKdjRyQjbwXo40sJW1deJBiBKm7AhfIq_YrLw&oe=6AFFF6E3",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/Dfg2fCYR3Pn/",
+      "alt": "Video by the.classy. clothes on November 09, 2026. May be an image of overcoat, turtleneck, drawstring and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "7e84bdce64636491c5a619df4846f4b9f57f5d01cd4e57e2c53cf50333622aef",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-09",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-12.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/888740523_1843012316839950_7434380227367049922_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=hE1Y3M8gGdkQ7kNvwHkMRYZ&_nc_oc=AdohKKArVTTnuh-gMIhcEn40IqNaqJInGGwyUmiOxFjPVHCOl7X0vH4Qf5RraVD5EUg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRABHhb2LwHJ2jcB_xHqWFE4Lql4aYqi_zNCqkN7_F0Ag&oe=6AFFEFA4",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/Dfg2RZERAVb/",
+      "alt": "Video by the.classy. clothes on November 08, 2026. May be an image of dress and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "583026e221304a6edb8c6f0bc9fea0f405ffd05d8d18741962238c80f7f51aff",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-08",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    }
+  ],
+  "provenance": [
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-01.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/901883992_1186334847408227_3321400377319845340_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=dWtzYB3Xj2AQ7kNvwG_hP68&_nc_oc=AdooxQPpxOkOszKFxatrSOlhWQv-eudVSZOLilwirb9jkIwzQLWllVqUaX2n0zmpoX8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQjaMqiSId2TVmTPU-bPDcD_TvfLT6dfRU3plSAQ-Unvg&oe=6AFFE1C6",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnVhB-xWjW/",
+      "alt": "Video by the.classy. clothes on November 11, 2026. May be an image of turtleneck and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "dd65e6ac6ce2f981c055abdb6079c8d60e378eea019d9f959838e7299fd514f2",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-11",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-02.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/904176332_1794287265164697_1808701635185416463_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=RMrcSfJ0AeIQ7kNvwEQWy4v&_nc_oc=Ado7kukvDim_oSNucalrp6m2qRcUsxHQ6I-Gc2ALLYWsSshaT9m1V_-SSpLI02Rilcg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRMOce3UeUbTGr8HSk1t__junuUx1XvgqFg1hZIEZf-CQ&oe=6B000FBE",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnVWINR1SW/",
+      "alt": "Video by the.classy. clothes on November 11, 2026. May be an image of duffle coat, overcoat, blazer, clothes hanger, jacket, suit and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "5798556ca88386092ae4bf2626c930bcef7e6d0eb2aba43f226adb1f922ae301",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-11",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-03.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/902591988_1110446798523776_3165501902693442122_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=KcF6EQyFVI4Q7kNvwHjVMD6&_nc_oc=AdoUq4OrxEIu2AMTcwOS5jvPpcK_ApOmYCZrcC6zBlajM-QmydRgj_-P87FPCYU6SCU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTaX4MSlgpuqyFVJCk8YIXrQBVy1h6KSRNZJyXguSnyrg&oe=6B000164",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnU_mPxBk1/",
+      "alt": "Video by the.classy. clothes on November 11, 2026. May be an image of top, tights, miniskirt, skirt and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "39be2f8557a9bc7204701060b92930434f6c84e2da1dc88fb0c6ff571c1b92e6",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-11",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-04.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/902229365_1040287815748468_4569475059682666354_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Q2-DNSKC0BAQ7kNvwGwl_CC&_nc_oc=AdqOHDb09AGKYibqDZ7iwZBTwIV5BAlLiVK_Du-GJzcZpgc47NTAy21JBbmWoAhs4FE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQR9lWf7X7Owu1K6BxbtHyv7RMw13QB-iM_TD900qX6Eeg&oe=6B000D58",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnU4DxxtLV/",
+      "alt": "Video by the.classy. clothes on November 11, 2026. May be an image of duffle coat, overcoat, clothes hanger, blazer, rack, suit and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "f8cc9de0bbcfe075d81eb08881f0a63ff57124fecfc50c1f4d9502058a03c9e9",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-11",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/900924348_2033890373960380_9062196112632802326_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=WK5kA5UY460Q7kNvwFMuo90&_nc_oc=AdolcLizzoShkQQx3wLo0tgS9iM_8r9rOFjz0h_pRW7SpMfG7bH7O06_TVlsqtC7dxo&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQtPa7j4UsiMwioTxJ6Wa_Da2eA-QK8YqhnZsc4pRtq1A&oe=6AFFF680",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnUtW5xL-g/",
+      "alt": "Video by the.classy. clothes on November 11, 2026. May be an image of dinner jacket, blazer, suit and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "d8686c1fcd41b4b86f9c3bba58c749fee0e3388ae8dfea182bbfde05cf1f7021",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-11",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/902584557_1829801234928185_587324527655075437_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=14hc0NB_7T0Q7kNvwFBjghm&_nc_oc=AdqNAjIgIDCuD-2Nwmupan-l_aEKzJYV5GR9J7yo8yGk0zoItwAEuX7A-rxEkgMoTag&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTPZfiXzp1ovd0iRPCMXdHHGwysXaUEKbewnL-OCAvPVw&oe=6B000E2C",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnUezBRI6-/",
+      "alt": "Video by the.classy. clothes on November 11, 2026. May be an image of jumpsuit and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "9fe80a0b62e242967cdc4298b0cb804ab9f00cf903162cc50884e10174c1968d",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-11",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-07.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/903993977_4651637375071787_4342256960016898476_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=b7RKJ_2arJUQ7kNvwENscl2&_nc_oc=AdrCvTQ_ZaasoZyDIIkPALxh-ZAW7Y6rw4Ksb_Ci9E6Ulrx2x7l9eRbnbnL8XGGAw7I&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSzL8lG68OWtdx3hJj1mfvrDSMuzG4ptEeUMLUsjwMzNQ&oe=6AFFDE49",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnUPYhxycV/",
+      "alt": "Video by the.classy. clothes on November 11, 2026. May be an image of wool, turtleneck and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "747b2718f59c9d2ad56f0ade12c39d0dc4350632b7143a7e288db526fe761633",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-11",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-08.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/902584951_1439798677741839_8513947586958297841_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=mkYJA7WIYLQQ7kNvwGuqDsx&_nc_oc=AdplyoKXbMo2kpnsl3IsPvBAXqw-aHNB9YNyOioxQz7JgoIOMlZdLpruIe1D3o_z4Bo&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQT_aY16ISx3eiO-NR1sbyBjbO-KgPM518HocxXVNytt7A&oe=6AFFFDBD",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/DfnUEb-xivj/",
+      "alt": "Video by the.classy. clothes on November 11, 2026. May be an image of wool, overskirt, outerwear, blazer, cardigan and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "95cf26e228cc8ada4e61b0dde5a93c0042cbfd1e1a75aacb7a2b1e63f93bb87f",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-11",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-09.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/890865748_1156669426931534_2257407044917276708_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=gazpoOFCH58Q7kNvwHdu7rC&_nc_oc=Ado_vseZXeJgV8i6YIvneGrpvirWt-3kW8HPPjuPTNBF6ovYZcY8_26vXYA8vdJy5lQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQR8K5vne7wXNf8Gc4DImxiik07vXFMSgtRoprmakDxqLA&oe=6B00139F",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/Dfg21kMRW28/",
+      "alt": "Video by the.classy. clothes on November 09, 2026. May be an image of jumpsuit and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "19ec19bea5b78d955dcb80912e261dede64ce4fe89a010376358b657dba9a489",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-09",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-10.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/894386355_1432538575697143_6184196153178612646_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=iyBuTm7tjYEQ7kNvwHmJ3uT&_nc_oc=AdpInFrLPLv8PWmd4qrWAgVLiHusHkO_MYMlFhoc4XFFPRXJ9ll_4_hbXdzQntZufcM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQT8mdnAEjYWddNhgR1x3w763wib5TZXnjtl5MElYdobxw&oe=6B0008AA",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/Dfg2jOjRIm1/",
+      "alt": "Video by the.classy. clothes on November 09, 2026. May be an image of suit, blazer, dinner jacket and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "c7490914aadd7eeefca1d0769913b72ba01f2e8bb6d04f9310f9b082f49de18d",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-09",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-11.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/899304556_965728772924016_4668660198082401303_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Fq3Q1dYXyMkQ7kNvwGAIHcH&_nc_oc=AdrjZLZYBGXUhOw1h1tJz9-MbuI0iJLIbPi5AlqJPhaesOk1GLzkLw9GHr3UYBDg2ok&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQT_Sg15XMKdjRyQjbwXo40sJW1deJBiBKm7AhfIq_YrLw&oe=6AFFF6E3",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/Dfg2fCYR3Pn/",
+      "alt": "Video by the.classy. clothes on November 09, 2026. May be an image of overcoat, turtleneck, drawstring and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "7e84bdce64636491c5a619df4846f4b9f57f5d01cd4e57e2c53cf50333622aef",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-09",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    },
+    {
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\classy-boutique\\images\\classy-12.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.71878-15/888740523_1843012316839950_7434380227367049922_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=hE1Y3M8gGdkQ7kNvwHkMRYZ&_nc_oc=AdohKKArVTTnuh-gMIhcEn40IqNaqJInGGwyUmiOxFjPVHCOl7X0vH4Qf5RraVD5EUg&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GHyEO6Nee1hsWkHwytpQXw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRABHhb2LwHJ2jcB_xHqWFE4Lql4aYqi_zNCqkN7_F0Ag&oe=6AFFEFA4",
+      "sourcePost": "https://www.instagram.com/classy_boutique_leb/reel/Dfg2RZERAVb/",
+      "alt": "Video by the.classy. clothes on November 08, 2026. May be an image of dress and text.",
+      "width": 361,
+      "height": 640,
+      "sha256": "583026e221304a6edb8c6f0bc9fea0f405ffd05d8d18741962238c80f7f51aff",
+      "sourceImageType": "Public Instagram Reel cover still, not an extracted video frame",
+      "observedDate": "2026-11-15",
+      "postDate": "2026-11-08",
+      "observationMethod": "Root observed rendered public Instagram profile DOM image src/alt/permalink, child downloaded the exact observed source URL. No source URL manipulation or upscaling.",
+      "aiLabelObserved": false,
+      "visualReview": "Contact sheet visually reviewed on 2026-11-15. Public brand-posted cover still; no imagery generated and no video frames extracted. Source photo authenticity and copyright ownership not independently verified."
+    }
+  ],
+  "usedImages": 12,
+  "contactEvidence": {
+    "source": "https://www.instagram.com/classy_boutique_leb/",
+    "observation": "Root observed the full public profile bio naming WhatsApp 79306855. Child independently retrieved public profile HTML description metadata containing exactly that phone number and the.classy. clothes name. No physical location is stated in reviewed primary profile.",
+    "rawLocalPhone": "79306855",
+    "normalization": "Added Lebanon +961 based on the account handle ending _leb and the local eight-digit mobile-number form. This country normalization is an inference, not a separately linked international WhatsApp number; no WhatsApp message or account-ownership test was performed.",
+    "countryConfidence": "Inferred from handle and local contact format; no precise location verified."
+  },
+  "websiteScreening": {
+    "result": "No matching official website found in checked public profile links and bounded handle/name/contact searches. An unlisted website cannot be ruled out.",
+    "primaryProfileReviewed": true,
+    "allBioLinksReviewed": true,
+    "bioLinkReview": "Only a Threads profile is visible; no separate website or Maps link was observed in the expanded primary bio.",
+    "queries": [
+      "\"classy_boutique_leb\" website shop -site:pictame.com -site:pikory.com",
+      "\"the.classy.clothes\" Lebanon",
+      "\"classy boutique\" \"79 306 855\"",
+      "\"classy boutique\" \"79306855\"",
+      "\"79306855\" \"Lebanon\" -filetype:pdf"
+    ],
+    "observations": [
+      "Exact handle plus website/shop returned no matching result.",
+      "Name and quoted phone business queries returned no matching result.",
+      "An unqualified eight-digit phone search returned unrelated patent serial numbers and product IDs, which are not matching business evidence.",
+      "Public fashion aggregator results reproduced this exact handle and garment captions but did not identify an independent shop."
+    ],
+    "scope": "Expanded primary Instagram bio, its visible link list and bounded public search results; no private directories, owner contact or authentication used."
+  },
+  "activityEvidence": [
+    {
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/DfnVhB-xWjW/",
+      "date": "2026-11-11",
+      "observation": "Video by the.classy. clothes on November 11, 2026. May be an image of turtleneck and text."
+    },
+    {
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/DfnVWINR1SW/",
+      "date": "2026-11-11",
+      "observation": "Video by the.classy. clothes on November 11, 2026. May be an image of duffle coat, overcoat, blazer, clothes hanger, jacket, suit and text."
+    },
+    {
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/DfnU_mPxBk1/",
+      "date": "2026-11-11",
+      "observation": "Video by the.classy. clothes on November 11, 2026. May be an image of top, tights, miniskirt, skirt and text."
+    },
+    {
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/DfnU4DxxtLV/",
+      "date": "2026-11-11",
+      "observation": "Video by the.classy. clothes on November 11, 2026. May be an image of duffle coat, overcoat, clothes hanger, blazer, rack, suit and text."
+    },
+    {
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/DfnUtW5xL-g/",
+      "date": "2026-11-11",
+      "observation": "Video by the.classy. clothes on November 11, 2026. May be an image of dinner jacket, blazer, suit and text."
+    },
+    {
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/DfnUezBRI6-/",
+      "date": "2026-11-11",
+      "observation": "Video by the.classy. clothes on November 11, 2026. May be an image of jumpsuit and text."
+    },
+    {
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/DfnUPYhxycV/",
+      "date": "2026-11-11",
+      "observation": "Video by the.classy. clothes on November 11, 2026. May be an image of wool, turtleneck and text."
+    },
+    {
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/DfnUEb-xivj/",
+      "date": "2026-11-11",
+      "observation": "Video by the.classy. clothes on November 11, 2026. May be an image of wool, overskirt, outerwear, blazer, cardigan and text."
+    },
+    {
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/Dfg21kMRW28/",
+      "date": "2026-11-09",
+      "observation": "Video by the.classy. clothes on November 09, 2026. May be an image of jumpsuit and text."
+    },
+    {
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/Dfg2jOjRIm1/",
+      "date": "2026-11-09",
+      "observation": "Video by the.classy. clothes on November 09, 2026. May be an image of suit, blazer, dinner jacket and text."
+    },
+    {
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/Dfg2fCYR3Pn/",
+      "date": "2026-11-09",
+      "observation": "Video by the.classy. clothes on November 09, 2026. May be an image of overcoat, turtleneck, drawstring and text."
+    },
+    {
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/Dfg2RZERAVb/",
+      "date": "2026-11-08",
+      "observation": "Video by the.classy. clothes on November 08, 2026. May be an image of dress and text."
+    }
+  ],
+  "restrictions": [
+    "All12files are public Instagram Reel cover stills downloaded from root-observed rendered DOM source URLs. No normal photo carousel was publicly available in the observed12post grid. No video files were downloaded or embedded, and no video frames were extracted.",
+    "All covers are native361x640. Do not upscale them or imply they are high-resolution original product photographs.",
+    "One source cover (long skirt styling) has native top/bottom black letterboxing. It is preserved exactly and can be omitted from the hero if unsuitable.",
+    "No AI label was visible in the inspected profile grid; the original photographic authenticity of business-posted imagery is not independently verified.",
+    "Descriptive demo garment labels are not officialSKUs. Prices, stock, fabric details, sizes, set contents, delivery terms and branch information need owner confirmation.",
+    "No precise branch, working hours, website, shipping price, payment methods or refund terms beyond the terse raw bio are invented.",
+    "The public bio provides local79306855; the+961country prefix is inferred from _leb identity and must be confirmed before final owner launch."
+  ],
+  "sources": [
+    {
+      "url": "https://www.instagram.com/classy_boutique_leb/",
+      "kind": "Primary public profile, rendered DOM and HTTP metadata"
+    },
+    {
+      "url": "https://pictame.com/en/discover/hashtag/cloths-women",
+      "kind": "Secondary exact-handle clothing caption corroboration only; not used for assets"
+    }
+  ],
+  "publishedContactDecision": "Use verified Instagram profile for enquiries. The local WhatsApp number is public, but adding +961 is not independently confirmed."
+}

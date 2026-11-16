@@ -1,0 +1,232 @@
+{
+  "brand": "Classy Boutique",
+  "contactMode": "instagram",
+  "phone": "",
+  "displayPhone": "",
+  "instagram": "https://www.instagram.com/classy_boutique_leb/",
+  "hours": "Confirm with the boutique",
+  "hero": "/images/collection-03.jpg",
+  "story": "/images/collection-06.jpg",
+  "galleryImages": [
+    "/images/collection-01.jpg",
+    "/images/collection-02.jpg",
+    "/images/collection-03.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-06.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-08.jpg",
+    "/images/collection-09.jpg",
+    "/images/collection-10.jpg",
+    "/images/collection-11.jpg",
+    "/images/collection-12.jpg"
+  ],
+  "products": [
+    {
+      "id": "chocolate-zip-jacket",
+      "name": "Chocolate Zip Jacket",
+      "collection": "Jackets",
+      "audience": "The edit",
+      "family": "",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-01.jpg"
+      ],
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/DfnVhB-xWjW/"
+    },
+    {
+      "id": "belted-short-coat",
+      "name": "Belted Short Coat",
+      "collection": "Coats",
+      "audience": "The edit",
+      "family": "",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-02.jpg"
+      ],
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/DfnVWINR1SW/"
+    },
+    {
+      "id": "burgundy-blouse",
+      "name": "Burgundy Blouse",
+      "collection": "Tops",
+      "audience": "The edit",
+      "family": "",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-03.jpg"
+      ],
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/DfnU_mPxBk1/"
+    },
+    {
+      "id": "black-tailored-edit",
+      "name": "Black Tailored Edit",
+      "collection": "Tailoring",
+      "audience": "The edit",
+      "family": "",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-04.jpg"
+      ],
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/DfnU4DxxtLV/"
+    },
+    {
+      "id": "black-tailored-jacket",
+      "name": "Black Tailored Jacket",
+      "collection": "Tailoring",
+      "audience": "The edit",
+      "family": "",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-05.jpg"
+      ],
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/DfnUtW5xL-g/"
+    },
+    {
+      "id": "burgundy-high-neck-set",
+      "name": "Burgundy High-Neck Set",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-06.jpg"
+      ],
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/DfnUezBRI6-/"
+    },
+    {
+      "id": "chocolate-blazer",
+      "name": "Chocolate Blazer",
+      "collection": "Tailoring",
+      "audience": "The edit",
+      "family": "",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-07.jpg"
+      ],
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/DfnUPYhxycV/"
+    },
+    {
+      "id": "grey-sculpted-jacket",
+      "name": "Grey Sculpted Jacket",
+      "collection": "Jackets",
+      "audience": "The edit",
+      "family": "",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-08.jpg"
+      ],
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/DfnUEb-xivj/"
+    },
+    {
+      "id": "burgundy-shirt-trouser-edit",
+      "name": "Burgundy Shirt & Trouser Edit",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-09.jpg"
+      ],
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/Dfg21kMRW28/"
+    },
+    {
+      "id": "burgundy-suit-edit",
+      "name": "Burgundy Suit Edit",
+      "collection": "Tailoring",
+      "audience": "The edit",
+      "family": "",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-10.jpg"
+      ],
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/Dfg2jOjRIm1/"
+    },
+    {
+      "id": "long-skirt-styling",
+      "name": "Long Skirt Styling",
+      "collection": "Skirts",
+      "audience": "The edit",
+      "family": "",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-11.jpg"
+      ],
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/Dfg2fCYR3Pn/"
+    },
+    {
+      "id": "black-long-sleeve-dress",
+      "name": "Black Long-Sleeve Dress",
+      "collection": "Dresses",
+      "audience": "The edit",
+      "family": "",
+      "description": "A garment look shown on the.classy. clothes Instagram page. Ask the shop to confirm the pictured pieces, materials, measurements, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-12.jpg"
+      ],
+      "source": "https://www.instagram.com/classy_boutique_leb/reel/Dfg2RZERAVb/"
+    }
+  ],
+  "services": [],
+  "branches": []
+}
